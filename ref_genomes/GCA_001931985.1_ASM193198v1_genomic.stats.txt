@@ -1,0 +1,12 @@
+Assembly statistics for: GCA_001931985.1_ASM193198v1_genomic.fna
+   CONTIG COUNT  =  197
+   TOTAL LENGTH  =  42030438
+            MIN  =  318
+            MAX  =  2436850
+         MEDIAN  =  3289
+           MEAN  =  213352.48
+            L50  =  13
+            N50  =  1319489
+            L90  =  46
+            N90  =  246987
+            GC%  =  48.43
