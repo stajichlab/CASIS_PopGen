@@ -1,0 +1,12 @@
+Assembly statistics for: asm/AAFTF/IMV01167.sorted.fasta
+   CONTIG COUNT  =  173
+   TOTAL LENGTH  =  31111908
+            MIN  =  500
+            MAX  =  1899804
+         MEDIAN  =  8582
+           MEAN  =  179837.62
+            L50  =  13
+            N50  =  802596
+            L90  =  37
+            N90  =  206715
+            GC%  =  52.29

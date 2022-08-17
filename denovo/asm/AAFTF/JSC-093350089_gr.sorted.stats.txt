@@ -1,0 +1,12 @@
+Assembly statistics for: asm/AAFTF/JSC-093350089_gr.sorted.fasta
+   CONTIG COUNT  =  185
+   TOTAL LENGTH  =  35789088
+            MIN  =  524
+            MAX  =  1274636
+         MEDIAN  =  76355
+           MEAN  =  193454.53
+            L50  =  25
+            N50  =  476051
+            L90  =  76
+            N90  =  146012
+            GC%  =  49.48
